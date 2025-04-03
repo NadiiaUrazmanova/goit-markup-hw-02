@@ -1,0 +1,131 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+address {
+    font-style: normal;
+}
+.header-logo {
+    font-family: "Raleway", sans-serif;
+     font-size: 18px;
+     font-weight: 700;
+     line-height: 1.16667;
+     letter-spacing: 0.03em;
+     text-transform: uppercase;
+     color: #2e2f42;
+ }
+.header-logo-web {
+   color: #4D5AE5;
+}
+.header-nav {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.header-nav:hover {
+    color: #404bbf
+}
+.header-nav:first-child:active {
+    color: #4D5AE5;
+}
+.header-address {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.header-address:hover {
+    color: #404bbf;
+}
+
+.section-1 {
+    background-color: #2E2F42;
+}
+.section-1-header {
+    font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        color: #fff;
+        text-align: center;
+}
+.section-1-button {
+    background-color: #4D5AE5;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+}
+.section-1-button:hover {
+    background-color: #404bbf;
+}
+.section-item-name {
+    font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.section-header {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+}
+.section-3-name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+}
+.section-3-profession {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-align: center;
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+.footer {
+    background-color: #2e2f42;
+   }
+.footer-logo-web {
+    color: #4D5AE5;
+}
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
